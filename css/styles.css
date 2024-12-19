@@ -1,0 +1,22 @@
+#title{
+    background-color:#243642;
+    color:#E2F1E7
+}
+h1{
+    font-size: 1rem;
+    text-align: center;
+}
+.carousel-item{
+    width:300px;
+    padding-left: 20%;
+    padding-right: 20%;
+}
+.card{
+    width:400px;
+}
+.cards{
+    background-color: #3A6D8C;
+}
+footer{
+    background-color: #3A6D8C;
+}
